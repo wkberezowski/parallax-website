@@ -1,6 +1,6 @@
 # A parallax website project with nice scrolling animations.
 
-## The animations are done with a JavaScript libraries:
+## The animations are done with JavaScript libraries:
 ### [GSAP](https://greensock.com/gsap/)
 ### [ScrollMagic](https://scrollmagic.io/)
 
